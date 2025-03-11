@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📜 About Me:
 Hey, I'm RAJADURAI<br>I'm a passionate Web Developer💻<br>who loves building dynamic, user-friendly, and scalable web applications.<br>With a keen eye for design and a strong backend foundation,<br>I turn ideas into seamless digital experiences.<br>🎨 Frontend Enthusiast – Creating responsive and engaging<br>UIs with HTML, CSS, JavaScript and Bootstrap.<br>🛠️Backend and Database- Java and MySQL.
 
 
