@@ -12,6 +12,9 @@ Hey, I'm RAJADURAI<br>I'm a passionate Web Developer💻<br>who loves building d
 ![](https://nirzak-streak-stats.vercel.app/?user=Rajadurai634&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajadurai634&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rajadurai634&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajadurai634&icon=1&color=0)](https://visitcount.itsvg.in)
 
